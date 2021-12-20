@@ -21,10 +21,10 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan dengan bijak.
 - [List Variabel Man-Userbot](https://telegra.ph/List-Variabel-Heroku-untuk-Man-Userbot-09-22)
 
 ### Generate String Session
-[![Run repl.it](https://img.shields.io/badge/run-string__session.py-blue?style=for-the-badge&logo=repl.it)](https://repl.it/@mrismanaziz/stringenSession?lite=1&outputonly=1)
-
-<h3 align="center">Klik Tombol di Bawah ini untuk Deploy di Heroku</h3>
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/mrisman08/Man-Deploy"><img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku" target="_blank"/></a></p>
+[ ! [Jalankan repl.it] (https://img.shields.io/badge/run-string__session.py-blue?style=for-the-badge&log https://heroku.com/deploy?template=https://github.com/mrisman08/Man-Deploy o=repl.it) ] (https://repl.it/@ mrismanaziz/stringenSession?lite=1&outputonly=1)
+saya
+< h3 align = "center" > Klik Tombol di Bawah ini untuk Deploy di Heroku </ h3 >
+< p align = "center" >< a href = " https://heroku.com/deploy?template=https://github.com/cannskuy/Man-userbot " >< img src = " https://www                                                    .herokucdn.com/deploy/button.png " alt = "Terapkan ke Heroku" target = " _blank" /></ a ></ p >
 
 ## Updates dan support
 
