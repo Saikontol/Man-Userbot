@@ -1,5 +1,5 @@
-FROM mrismanaziz/man-userbot:buster
-
+DARI mrismanaziz/man-userbot:buster
+saya
 RUN git clone -b Man-Userbot https://github.com/mrismanaziz/Man-Userbot /home/manuserbot/ \
     && chmod 777 /home/manuserbot \
     && mkdir /home/manuserbot/bin/
